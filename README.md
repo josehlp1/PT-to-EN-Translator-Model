@@ -51,7 +51,7 @@ Todos os artefatos necessários para a execução do projeto (modelos, datasets,
 
 1. Instalar as dependências necessárias:
    ```bash
-   pip install pandas tensorflow scikit-learn
+   pip install -r requirements.txt
 
 2. Baixar e preparar os datasets executando main.py:
     ```bash
